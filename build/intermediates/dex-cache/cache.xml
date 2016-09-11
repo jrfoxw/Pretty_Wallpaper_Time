@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Randy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_e1413f2127cd0954445e774328b41f930bfae943\classes.dex" />
+    </item>
+    <item
+        jar="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_fa1fdb79c9466ed7ccdd5db306b5aa004f87f6c9\classes.dex" />
+    </item>
+    <item
+        jar="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_fea587be28b6b551c1dd7c150f676198bf991173\classes.dex" />
+    </item>
+    <item
+        jar="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\exploded-aar\com.google.android.support\wearable\2.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="87fb797ba434e0847cfcca4ffd740941c41634e6">
+        <dex dex="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.support-wearable-2.0.0-alpha2_1f2ead8a56455c93003d0c61107898a6ea5d9026\classes.dex" />
+    </item>
+    <item
+        jar="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2978e7425a3c6dca36ba305270b5d75ffb88ad19">
+        <dex dex="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6290f989bd4a0e6526fbe46df3cf7c586e4946ab\classes.dex" />
+    </item>
+    <item
+        jar="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_6706b5065fa0a88558ec762839f74a2fa7123bdf\classes.dex" />
+    </item>
+    <item
+        jar="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_f062c6e54a252134d6e208230db524da35357b1c\classes.dex" />
+    </item>
+    <item
+        jar="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f4244f9d9582f6beb6dc5946f92dd14b37ce6ad9">
+        <dex dex="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e240cf363cc07f63d485ab007d999e75045fde14\classes.dex" />
+    </item>
+    <item
+        jar="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.0.1_1839aead8e2b89867c6e383da00d05721e4214f9\classes.dex" />
+    </item>
+    <item
+        jar="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_5953613cad4b9846be193a92a4a0a520883afa72\classes.dex" />
+    </item>
+    <item
+        jar="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\ANDROID\Pretty_Wallpaper_Time\sunshine\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_0aa26d0e0216c77540a8a7e1c1e40c20fc76a945\classes.dex" />
+    </item>
+
+</items>
