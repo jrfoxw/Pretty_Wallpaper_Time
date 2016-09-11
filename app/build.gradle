@@ -1,0 +1,46 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.2"
+
+    defaultConfig {
+        applicationId "com.example.android.sunshine.app"
+        minSdkVersion 14
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+//    buildTypes.each {
+//        it.buildConfigField 'String', 'OPEN_WEATHER_MAP_API_KEY', MyOpenWeatherMapApiKey
+//    }
+}
+
+ext {
+    MyOpenWeatherMapApiKey = 'e38edf608a69e3cc587a75eaada21276'
+    supportLibVersion = '24.2.0'
+    comGoogleLib = '9.0.2'
+}
+
+dependencies {
+    wearApp project(':SunshineFace')
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile "com.android.support:support-annotations:${supportLibVersion}"
+    compile "com.android.support:gridlayout-v7:${supportLibVersion}"
+    compile "com.android.support:cardview-v7:${supportLibVersion}"
+    compile "com.android.support:appcompat-v7:${supportLibVersion}"
+    compile "com.android.support:design:${supportLibVersion}"
+    compile "com.android.support:recyclerview-v7:${supportLibVersion}"
+    compile 'com.github.bumptech.glide:glide:3.5.2'
+    compile 'com.google.android.apps.muzei:muzei-api:2.0'
+    compile 'com.google.android.gms:play-services-gcm:9.4.0'
+    compile 'com.google.android.gms:play-services-wearable:9.4.0'
+    compile 'com.google.android.support:wearable:2.0.0-alpha2'
+}
